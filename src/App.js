@@ -5,6 +5,7 @@ import './App.scss';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import Container from './components/Container';
+import Podcast from './components/Podcast';
 
 
 class App extends Component {
@@ -20,6 +21,7 @@ class App extends Component {
           magnam illo minus!Lorem ipsum dolor sit amet consectetur minus!Lorem ipsum dolor sit amet consectetur
         </p>
       </Container>
+      <Podcast />
 
       
       
